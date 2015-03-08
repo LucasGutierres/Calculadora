@@ -1,0 +1,10 @@
+C:\Users\seeduc\Documents\Calculator v0.02\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.Calculadora.resources
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zeca\Documents\GitHub\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
